@@ -6,8 +6,8 @@ title: Members
 - Findthepin1 Substitute Recovery
 - adsii1970 Graphics (Non-mission control role)
 - Mad Rocket Scientist LV Development Team (Non-mission control role)
-- ZooNamedGames Flight director (doc)
-- Dman979 Booster Systems Engineer (doc)
-- CliftonM Public Affairs Officer (doc)
+- ZooNamedGames Flight director
+- Dman979 Booster Systems Engineer
+- CliftonM Public Affairs Officer
 - RoketMan Back up
 - MRMCNUGGET unknown
