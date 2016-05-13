@@ -3,9 +3,7 @@ layout: page
 title: Members
 ---
 
-# !
-
-## This member list is not up to date.  If you are a member any are not on the list, fork the site and send a pull request.
+# This member list is not up to date.  If you are a member any are not on the list, fork the site and send a pull request.
 
 ## This is a list of *most* members.  Some may have been forgotten, or haven't been added yet.
 - **Findthepin1** Substitute Recovery 
